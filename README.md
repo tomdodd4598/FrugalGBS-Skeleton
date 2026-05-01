@@ -4,7 +4,7 @@ FrugalGBS Skeleton
 Summary
 -------
 
-An example C++ project that uses the ["FrugalGBS"](https://github.com/tomdodd4598/FrugalGBS) library as a dependency.
+An example C++ project that uses the [FrugalGBS](https://github.com/tomdodd4598/FrugalGBS) library as a dependency.
 
 Basic Setup
 -----------
